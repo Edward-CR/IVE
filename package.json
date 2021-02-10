@@ -8,10 +8,7 @@
   ],
   "type": "library",
   "hideInEditor": false,
-
-  "dependencies": {
-    "com.edward.ive": "0.0.3"
-  },
+  
   "repository": {
     "type": "git",
     "url": "https://github.com/Edward-CR/IVE.git"

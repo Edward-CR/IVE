@@ -36,6 +36,10 @@ namespace IVE
         }
 
 
+        public class Node
+        {
+            
+        }
         
         public static void AddAU()
         {

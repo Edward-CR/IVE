@@ -1,0 +1,11 @@
+{
+  "displayName": "IVE",
+  "name": "com.edward.ive",
+  "version": "0.0.1",
+  "unity": "2019.1",
+  "description": "IVE",
+  "keywords": [
+  ],
+  "type": "library",
+  "hideInEditor": false
+}
